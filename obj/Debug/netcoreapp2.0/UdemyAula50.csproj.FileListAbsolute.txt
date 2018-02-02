@@ -1,0 +1,10 @@
+g:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.csproj.CoreCompileInputs.cache
+g:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.AssemblyInfoInputs.cache
+g:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.AssemblyInfo.cs
+G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.deps.json
+G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.runtimeconfig.json
+G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.runtimeconfig.dev.json
+G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.dll
+G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.pdb
+G:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.dll
+G:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.pdb
