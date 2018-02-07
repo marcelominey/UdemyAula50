@@ -8,3 +8,14 @@ G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.dll
 G:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.pdb
 G:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.dll
 G:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.pdb
+F:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.deps.json
+F:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.runtimeconfig.json
+F:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.runtimeconfig.dev.json
+F:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.dll
+F:\TI\backend\UdemyAula50\bin\Debug\netcoreapp2.0\UdemyAula50.pdb
+F:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.csproj.CoreCompileInputs.cache
+F:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.AssemblyInfoInputs.cache
+F:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.AssemblyInfo.cs
+F:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.dll
+F:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.pdb
+G:\TI\backend\UdemyAula50\obj\Debug\netcoreapp2.0\UdemyAula50.csprojResolveAssemblyReference.cache

@@ -59,12 +59,14 @@ namespace dominio
             string s = IdCarro.ToString() 
             + ", " 
             + Modelo 
+            + ", marca " 
+            + IdMarca
             + ", ano " 
             + Ano.ToString() 
             + ", preço básico R$ " 
             + precoBasico.ToString("F2")
-            + "; preço total: R$: " 
-            + precoTotal().ToString("F2") 
+            //+ "; preço total: R$: " 
+            //+ precoTotal().ToString("F2") 
             + "\n";
             
             for (int i = 0; i < Acess.Count; i++)
